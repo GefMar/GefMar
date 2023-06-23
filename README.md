@@ -1,9 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergei Romanchuk ========================================================================================================================================  Backend Developer and Mentor ----------------------------  
+========================================================================================================================================  Backend Developer and Mentor ----------------------------  
 * 🌍  I'm based in Malta 
 * ✉️  You can contact me at [causal-golfers.0p@icloud.com](mailto:causal-golfers.0p@icloud.com) 
 * 🚀  I'm currently working on [Parallels Web Services](http://www.parallels.com/eu/) 
 * 🧠  I'm learning Cosmos SDK and OSINT instruments 
 * 🤝  I'm open to collaborating on Cosmos (ATOM) projects
+* 🤝  I'm open to collaborating on Djnago or FastAPI BE projects
 
 ### Skills  
 
