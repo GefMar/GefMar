@@ -1,9 +1,8 @@
 ========================================================================================================================================  Backend Developer and Mentor ----------------------------  
 * 🌍  I'm based in Malta 
 * ✉️  You can contact me at [causal-golfers.0p@icloud.com](mailto:causal-golfers.0p@icloud.com) 
-* 🚀  I'm currently working on [Parallels Web Services](http://www.parallels.com/eu/) 
+* 🚀  I'm currently working on [Parallels](http://www.parallels.com/eu/) 
 * 🧠  I'm learning Cosmos SDK and OSINT instruments 
-* 🤝  I'm open to collaborating on Cosmos (ATOM) projects
 * 🤝  I'm open to collaborating on Djnago or FastAPI BE projects
 
 ### Skills  
