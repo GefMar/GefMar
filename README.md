@@ -4,8 +4,7 @@ Sergei (Gefest) Romanchuk *Backend Engineer*
 
 ## Professional Experience:  
 - **Python (over 10 years)**: Profound knowledge and application of Django, FastAPI, and LiteStar. 
-  Experienced in asynchronous processing with Celery and database interactions using SQLAlchemy. 
-  Familiarity with additional libraries such as Requests and Flask.
+  Experienced in asynchronous processing with Celery and database interactions using SQLAlchemy, DjangoOrm, RawSql
   
 * 🌍  I'm based in Malta  
 * ✉️  You can contact me at [causal-golfers.0p@icloud.com](mailto:causal-golfers.0p@icloud.com)  
