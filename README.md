@@ -3,7 +3,7 @@ Sergei (Gefest) Romanchuk *Backend Engineer*
 <a href="https://www.github.com/GefMar" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/GefMar?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ## Professional Experience:  
-- **Python (over 10 years)**: Profound knowledge and application of Django, FastAPI, and LiteStar. 
+- **Python (over 15 years)**: Profound knowledge and application of Django, FastAPI, and LiteStar. 
   Experienced in asynchronous processing with Celery and database interactions using SQLAlchemy, DjangoOrm, RawSql
   
 * 🌍  I'm based in Malta  
