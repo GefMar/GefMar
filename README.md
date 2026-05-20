@@ -96,11 +96,6 @@ Developer tooling       ████████████████░░�
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GefMar&show_icons=true&count_private=true&hide_border=true&title_color=0891b2&text_color=e5e7eb&icon_color=0891b2&bg_color=111827" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GefMar&layout=compact&langs_count=8&hide_border=true&title_color=0891b2&text_color=e5e7eb&bg_color=111827" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=GefMar&hide_border=true&background=111827&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&sideLabels=e5e7eb&dates=9ca3af&currStreakNum=e5e7eb&sideNums=e5e7eb" />
 </p>
 
