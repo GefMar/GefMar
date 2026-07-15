@@ -32,6 +32,13 @@ Currently learning and actively exploring Rust for performance-critical infrastr
 - Currently working at [Altenar](https://altenar.com)
 
 ---
+![@GefMar's DevQuest Rank Badge](https://devquest-mu.vercel.app/card/GefMar.svg?template=rank-badge&style=glass)
+
+---
+
+![@GefMar's DevQuest Skill Bars](https://devquest-mu.vercel.app/card/GefMar.svg?template=skill-bars&style=minimal)
+
+---
 
 ## Tech Stack
 
